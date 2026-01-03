@@ -1,3 +1,5 @@
+Here is the website link: https://munna1680.github.io/Assignment-6/
+<br>
 Q1: What is the difference between var, let, and const?
 Ans: var: Function-scoped. If declared outside any function, it becomes a global variable. It can be reassigned and redeclared. Not block-scoped.
 
